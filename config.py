@@ -9,7 +9,7 @@ USERNAME = 'shazh-ms'
 ISSUE_TO_COMMENT = 8
 
 # The repository to add this issue to
-REPO_OWNER = 'shaofei zhang'
+REPO_OWNER = 'yuyue'
 REPO_NAME = 'ArXivDaily_hassem'
 
 # Set new submission url of subject
@@ -26,7 +26,10 @@ KEYWORD_LIST = [
     "tts",
     "LLM-based",
     "speech",
-    "voice"
+    "voice",
+    "video dubbing",
+    "movie dubbing",
+    "audio"
 ]
 
 # Keywords to exclude
