@@ -5,12 +5,12 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 # Authentication for user filing issue (must have read/write access to repository to add issue to)
-USERNAME = 'shazh-ms'
+USERNAME = 'lingranshanye2357'
 ISSUE_TO_COMMENT = 8
 
 # The repository to add this issue to
-REPO_OWNER = 'yuyue'
-REPO_NAME = 'ArXivDaily_hassem'
+REPO_OWNER = 'lingranshanye2357'
+REPO_NAME = 'ArXivDaily_Windy'
 
 # Set new submission url of subject
 NEW_SUB_URL = 'https://arxiv.org/list/eess.AS/new'
